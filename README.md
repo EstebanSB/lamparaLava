@@ -4,4 +4,4 @@ Este es un proyecto sencillo de HTML y CSS que crea un efecto visual similar a u
 
 ## Demostración
 
-Puedes ver una demostración en vivo del proyecto [aquí](enlace_a_demo).
+Puedes ver una demostración en vivo del proyecto [aquí](https://estebansb.github.io/lamparaLava/).
